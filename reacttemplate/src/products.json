@@ -1,15 +1,18 @@
 [
   {
+    "id": "1",
     "img": "111",
     "title": "Jeans Dress",
     "price": "99.00"
   },
   {
+    "id": "2",
     "img": "222",
     "title": "Fancy Shirt",
     "price": "64.99"
   },
   {
+    "id": "3§",
     "img": "322",
     "title": "Stylish Dress",
     "price": "109.99"
