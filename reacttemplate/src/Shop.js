@@ -2,9 +2,6 @@ import Product from './Product';
 import products_json from './products.json';
 
 function Shop() {
-  // const products = JSON.parse(products_json);
-  // const products = JSON.parse(JSON.stringify(products_json));
-  console.log(products_json)
 
   return (
     <div className="shop-container">
